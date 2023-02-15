@@ -14,15 +14,15 @@ Conocer las distintas características de un inductor o bobina, para el desarrol
 
 **2. MARCO TEÓRICO (RESUMEN)**
  
-
+https://www.canva.com/design/DAFaew6yO2s/KNGlAJ1gb2N-NKNQenMgHQ/view?utm_content=DAFaew6yO2s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 **RESUMEN CAPITULO - 15**
 
-
+[![1.jpg](https://i.postimg.cc/WbFBBNNv/1.jpg)](https://postimg.cc/KRbpLy3q) 
 
 **RESUMEN CAPITULO - 16**
 
-
+[![2.jpg](https://i.postimg.cc/J7ggcfbd/2.jpg)](https://postimg.cc/K4PJmspn)
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
