@@ -571,14 +571,16 @@ Utilizar la fórmula, Vsal=(R/Ztot)
 (c) R1 abierto=1.62<-25.8°
  (d) un cortocircuito a través de R2=2.15<-64.5V
  
-
 **4. VIDEO**
 
-
+https://youtu.be/pQ6d64QptZU 
 
 **5. CONCLUSIONES**
 
+Mediante las aplicaciones de los inductores vistos en estos capítulos, se puede verificar el funcionamiento de los mismos en circuitos que produzcan sonidos, y su implicaión viene a darse al suprimir o eliminar los mismos, debido a su funcionamiento, incluso utilizando capacitores o reemplazandolos en el lugar de resistencias.
+El funcionamiento de un transformador, es uno de los mayores usos que se les da a lo que hoy conocemos como electricidad doméstica, debido a que los mismos, convierten un alto voltaje en un menor, o viceversa, utulizando el principio de los inductores, alimentando la electricidad de los hogares.
 
 
 **6. BIBLIOGRAFÍA**
 
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
